@@ -4003,7 +4003,6 @@ select {
     .bb-footer-links
     .bb-footer-link
     span {
-    width: 25px;
     -webkit-box-flex: 0;
     -ms-flex: 0 0 auto;
     flex: 0 0 auto;
