@@ -307,11 +307,7 @@ h6 {
     -webkit-transform: scale(1);
     transform: scale(1);
 }
-[type="radio"]:not(:checked) {
-    position: relative;
-    opacity: 0;
-    display: none;
-}
+
 [type="radio"]:not(:checked) + label {
     position: relative;
     padding-left: 26px;
