@@ -1308,7 +1308,6 @@ select {
 .bb-header .bb-main-menu-desk .bb-inner-menu-desk .bb-header-btn {
     height: 45px;
     width: 45px;
-    margin: 0 30px 0 0;
     padding: 8px;
     display: -webkit-box;
     display: -ms-flexbox;
